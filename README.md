@@ -17,7 +17,7 @@ Welcome to the Homeverse ! This project is designed to help users find their dre
 
 ## Project Structure 📂
 ```
-real-estate-listing-platform/
+Homeverse /
 ├── assets/
 │   ├── css/
 │   ├── images/
