@@ -1,8 +1,8 @@
-# Real Estate Listing Platform 🏡
+# Homeverse 🏡
 
 ![Banner Image](readme-images/banner.png)
 
-Welcome to the Real Estate Listing Platform! This project is designed to help users find their dream homes by providing a comprehensive listing of properties available for sale or rent.
+Welcome to the Homeverse ! This project is designed to help users find their dream homes by providing a comprehensive listing of properties available for sale or rent.
 
 ## Features ✨
 - 🏠 Browse listings of properties for sale or rent
@@ -28,7 +28,13 @@ real-estate-listing-platform/
 └── README.md
 ```
 
-## Contributing 🤝
-We welcome contributions! Please fork the repository and submit a pull request with your changes.
+## 🤝 Contributing
 
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 🙏 Thank You
+
+Thank you for checking out **Homeverse**! I hope you enjoy using the platform as much as I enjoyed building it. Your feedback and support mean a lot!
+
+---
 
